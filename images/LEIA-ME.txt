@@ -1,0 +1,8 @@
+Coloque aqui as capas dos cases, com estes nomes exatos:
+
+case-alimento-da-alma.jpg
+case-museu-bahia.jpg
+case-crocbuds.jpg
+
+16:10, ~1600x1000px, JPG qualidade 80.
+Pode apagar este arquivo depois.
